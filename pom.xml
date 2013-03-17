@@ -5,7 +5,7 @@
 	<artifactId>PlayerVaults</artifactId>
 	<version>2.1.1</version>
 	<build>
-		<defaultGoal>clean build install</defaultGoal>
+		<defaultGoal>clean package install</defaultGoal>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
